@@ -5,6 +5,10 @@
   font-family: "Roboto", Helvetica, sans-serif;
 }
 
+body {
+  font-size: 1.5rem;
+}
+
 .header-nav {
   background-color: white;
   text-align: center;
@@ -42,4 +46,100 @@
 
 .landing-section__heading__span--K {
   color: #223c88;
+}
+
+.mission-section {
+  background-color: #ffe964;
+  text-align: center;
+  padding: 7rem;
+}
+
+.mission-section__heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-bottom: 2.5rem;
+}
+
+.mission-section__paragraph {
+  width: 60%;
+  margin: auto;
+}
+
+.about-section {
+  padding: 7rem;
+}
+
+.about-section__heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-bottom: 2.5rem;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 2.5rem;
+}
+
+.about-section__paragraph {
+  width: 60%;
+  margin: auto;
+}
+
+.team-section {
+  background-color: #ff523d;
+  padding: 7rem;
+  padding-bottom: 10rem;
+}
+
+.team-section__heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-bottom: 2.5rem;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 2.5rem;
+  color: white;
+}
+
+.employee {
+  text-align: center;
+  color: white;
+}
+
+.employee__image {
+  margin-bottom: 1.4rem;
+}
+
+.employee__name {
+  font-weight: 700;
+  font-size: 1.8rem;
+  margin: 0.3rem;
+}
+
+.employee__position {
+  margin-bottom: 5rem;
+}
+
+footer {
+  background-color: #223c88;
+  padding: 7rem;
+}
+
+.footer__heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-bottom: 2.5rem;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 2.5rem;
+}
+
+.footer__contact {
+  width: 60%;
+  margin: auto;
+  color: white;
+}
+
+.footer__contact--bold {
+  font-weight: 700;
+  font-size: 1.8rem;
+  margin-top: 1.3rem;
 }
