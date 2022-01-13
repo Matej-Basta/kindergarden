@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+.header-nav {
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.header-nav__link {
+  color: black;
+  margin: 20px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.landing-section {
+  background-image: url("graphics/banner.jpg");
+  height: 30rem;
+  padding: 10rem 0 0 13rem;
+  color: white;
+}
+
+.landing-section__heading {
+  font-size: 3.5rem;
+  font-weight: 900;
+  width: 21.5rem;
+  border-bottom: white solid 5px;
+}
+
+.landing-section__heading__span--B {
+  color: #ffe964;
+}
+
+.landing-section__heading__span--I {
+  color: #ff523d;
+}
+
+.landing-section__heading__span--K {
+  color: #223c88;
+}
